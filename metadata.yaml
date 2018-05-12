@@ -1,0 +1,32 @@
+_repo: The-Story-of-GarfieldFarm-boy-Soldier-and-President_21621
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rutherford, William G. (William Gunion)
+    aliases:
+    - Rutherford, W. Gunion (William Gunion)
+    - Rutherford, William Gunion
+    birthdate: 1853
+    deathdate: 1907
+    gutenberg_agent_id: '24815'
+    url: http://www.gutenberg.org/2009/agents/24815
+description: ''
+gutenberg_issued: '2007-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21621'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E660'
+- !lcsh 'Garfield, James A. (James Abram), 1831-1881'
+- !lcsh 'Presidents -- United States -- Biography'
+title: 'The Story of Garfield
+
+  Farm-boy, Soldier, and President'
+url: http://www.gutenberg.org/ebooks/21621
