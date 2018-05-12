@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '24815'
     url: http://www.gutenberg.org/2009/agents/24815
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21621#The-Story-of-GarfieldFarm-boy-Soldier-and-President
 gutenberg_issued: '2007-05-27'
 gutenberg_type: Text
 identifiers:
